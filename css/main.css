@@ -543,7 +543,7 @@ header .container nav ul #color-button {
 
 @media (max-width:750px) {
     #HOW-SPREAD {
-        height: 3300px;
+        height: 3100px;
     }
 
     #HOW-SPREAD .flex-div {
@@ -625,7 +625,7 @@ header .container nav ul #color-button {
 
 @media (max-width:750px) {
     #SYMPTOMS {
-        height: 2900px;
+        height: 2720px;
     }
 
     #SYMPTOMS .text .p2 {
