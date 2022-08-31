@@ -463,7 +463,7 @@ header .container nav ul #color-button {
 }
 
 #HOW-SPREAD {
-    width: auto;
+    width: 100%;
     height: 1000px;
     background-color: rgba(200, 209, 235, 0.3);
 }
@@ -509,7 +509,7 @@ header .container nav ul #color-button {
 .div3 {
     border: 2px solid rgb(221, 219, 219);
     width: 400px;
-    height: 550px;
+    height: 700px;
     margin: 20px 20px;
     background-color: #F7F9FE;
 }
@@ -543,7 +543,7 @@ header .container nav ul #color-button {
 
 @media (max-width:750px) {
     #HOW-SPREAD {
-        height: 3000px;
+        height: 3300px;
     }
 
     #HOW-SPREAD .flex-div {
@@ -625,7 +625,7 @@ header .container nav ul #color-button {
 
 @media (max-width:750px) {
     #SYMPTOMS {
-        height: 2500px;
+        height: 2900px;
     }
 
     #SYMPTOMS .text .p2 {
@@ -645,7 +645,7 @@ header .container nav ul #color-button {
 .div-3rd {
     width: 400px;
     border: 2px solid rgb(221, 219, 219);
-    height: 250px;
+    height: 210px;
 }
 
 @media (max-width:750px) {
@@ -945,7 +945,7 @@ header .container nav ul #color-button {
 @media (max-width:750px) {
     #PROTECT .doctor {
         width: 351px;
-        height: 1800px;
+        height: 1700px;
         margin-left: 0;
         box-shadow: rgba(0, 0, 0, 0.2) 10px 5px 5px 5px;
         display: block;
@@ -1174,7 +1174,7 @@ header .container nav ul #color-button {
 @media (max-width:750px) {
     #TREATMENT .div-content {
         width: 300px;
-        height: 590px;
+        height: 620px;
         margin-top: 20px;
         margin-left: 20px;
     }
