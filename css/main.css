@@ -543,7 +543,7 @@ header .container nav ul #color-button {
 
 @media (max-width:750px) {
     #HOW-SPREAD {
-        height: 2600px;
+        height: 3000px;
     }
 
     #HOW-SPREAD .flex-div {
@@ -625,7 +625,7 @@ header .container nav ul #color-button {
 
 @media (max-width:750px) {
     #SYMPTOMS {
-        height: 2100px;
+        height: 2500px;
     }
 
     #SYMPTOMS .text .p2 {
@@ -658,7 +658,7 @@ header .container nav ul #color-button {
     .div-2rd,
     .div-3rd {
         width: 300px;
-        height:450px;
+        height:390px;
         box-shadow: rgba(0, 0, 0, 0.2) 0px 5px 10px;
         margin-top: 70px;
     }
@@ -945,7 +945,7 @@ header .container nav ul #color-button {
 @media (max-width:750px) {
     #PROTECT .doctor {
         width: 351px;
-        height: 1900px;
+        height: 1800px;
         margin-left: 0;
         box-shadow: rgba(0, 0, 0, 0.2) 10px 5px 5px 5px;
         display: block;
@@ -1119,7 +1119,7 @@ header .container nav ul #color-button {
 @media (max-width:750px) {
     #TREATMENT {
         display: block;
-        height: 1500px;
+        height: 1450px;
     }
 
     #TREATMENT .text {
@@ -1174,7 +1174,7 @@ header .container nav ul #color-button {
 @media (max-width:750px) {
     #TREATMENT .div-content {
         width: 300px;
-        height: 560px;
+        height: 590px;
         margin-top: 20px;
         margin-left: 20px;
     }
